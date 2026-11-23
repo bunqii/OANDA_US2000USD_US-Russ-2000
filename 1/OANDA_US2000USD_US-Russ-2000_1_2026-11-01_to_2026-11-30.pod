@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_US2000USD_US-Russ-2000_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_US2000USD_US-Russ-2000_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 20693,
+  "row_count": 21183,
   "first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 21
   },
   "last_candle": {
-    "time": 1795211940,
-    "Time": "2026-11-20T21:59:00.000000000Z",
-    "open": 2594.64,
-    "high": 2595.19,
-    "low": 2594.44,
-    "close": 2595.19,
-    "volume": 34
+    "time": 1795417800,
+    "Time": "2026-11-23T07:10:00.000000000Z",
+    "open": 2631.417,
+    "high": 2631.967,
+    "low": 2631.217,
+    "close": 2631.817,
+    "volume": 190
   },
   "csv_file": "OANDA_US2000USD_US-Russ-2000_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 20693,
+  "csv_row_count": 21183,
   "csv_first_candle": {
     "time": 1793574000,
     "Time": "2026-11-01T23:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 21
   },
   "csv_last_candle": {
-    "time": 1795211940,
-    "Time": "2026-11-20T21:59:00.000000000Z",
-    "open": 2594.64,
-    "high": 2595.19,
-    "low": 2594.44,
-    "close": 2595.19,
-    "volume": 34
+    "time": 1795417800,
+    "Time": "2026-11-23T07:10:00.000000000Z",
+    "open": 2631.417,
+    "high": 2631.967,
+    "low": 2631.217,
+    "close": 2631.817,
+    "volume": 190
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-21T06:55:35.000000000Z",
-  "generated_at": "2026-11-21T06:55:35.000000000Z",
+  "verified_at": "2026-11-23T07:11:38.000000000Z",
+  "generated_at": "2026-11-23T07:11:38.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-20T07:16:00Z",
-        "to": "2026-11-20T22:00:00Z",
+        "from": "2026-11-20T21:54:00Z",
+        "to": "2026-11-23T07:11:00Z",
         "code": 200,
         "msg": "OK"
       }
